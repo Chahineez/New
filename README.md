@@ -1,4 +1,4 @@
-# GitTP
+﻿# GitTP
 package Vect;
 import java.util.Scanner;
 
@@ -105,7 +105,7 @@ public class VectorHelper {
 	   
 	   
    }
-	System.out.println(" valeurrrr du maximumm est "+max);	
+	System.out.println(" valeurrrr du maximuuuuum hnaaa est "+max);	
 	System.out.println(" valeurrrr du minimum   est "+min);	
 	return max+min;
 
