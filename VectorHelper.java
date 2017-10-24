@@ -37,8 +37,8 @@ public class VectorHelper  {
 		 {
 			 vect3[i]= vect1[i]+vect2[i];
 			 
-
-			 System.out.println("/*verifications*/tableau3["+i+"]="+vect3[i]);
+                          /* modification de Slatnia */
+			 System.out.println("/*verification*/tableau3["+i+"]="+vect3[i]);
 
 			 i++;
 			 
