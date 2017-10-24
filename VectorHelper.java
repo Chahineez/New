@@ -38,8 +38,8 @@ public class VectorHelper  {
 			 vect3[i]= vect1[i]+vect2[i];
 			 
 
-                     /****Modification de Sarah Mehenni dans travail de chahinez********/
-			 System.out.println("/*verifications*/Letableau3["+i+"]="+vect3[i]);
+                     /****Modification de Sarah Mehenni dans travail de chahinez Slatniaa********/
+			 System.out.println("/*verifications*/tableau3["+i+"]="+vect3[i]);
 
 
 			 i++;
