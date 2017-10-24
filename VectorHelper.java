@@ -37,7 +37,7 @@ public class VectorHelper  {
 		 {
 			 vect3[i]= vect1[i]+vect2[i];
 			 
-			 System.out.println("tableau3["+i+"]="+vect3[i]);
+			 System.out.println("tableau3333 essai["+i+"]="+vect3[i]);
 			 i++;
 			 
 		 }
