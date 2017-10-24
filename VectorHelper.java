@@ -6,7 +6,7 @@ import java.util.Scanner;
 /**
  * 
  * Bienvenue au programe du TP d'IGL
- * @author MCS
+ * @author Chahinez 
  * Binome : Slatnia/Mehenni/G02
  *
  */
