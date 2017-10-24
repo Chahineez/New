@@ -39,8 +39,10 @@ public class VectorHelper  {
 			 
 
 
+
                      /****Modification de chahinez Slatniaa********/
 			 System.out.println("/*verificatiioon*/Tableau3["+i+"]="+vect3[i]);
+
 
 
 
