@@ -39,8 +39,8 @@ public class VectorHelper  {
 			 
 
 
-                     /****Modification de Sarah Mehenni dans travail de chahinez Slatniaa********/
-			 System.out.println("/*verifications*/tableau3["+i+"]="+vect3[i]);
+                     /****Modification de chahinez Slatniaa********/
+			 System.out.println("/*verificatiioon*/Tableau3["+i+"]="+vect3[i]);
 
 
 
