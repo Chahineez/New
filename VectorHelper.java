@@ -6,7 +6,7 @@ import java.util.Scanner;
 /**
  * 
  * Bienvenue au programe du TP d'IGL
- * @author MCS
+ * @author Chahinez 
  * Binome : Slatnia/Mehenni/G02
  *
  */
@@ -37,8 +37,10 @@ public class VectorHelper  {
 		 {
 			 vect3[i]= vect1[i]+vect2[i];
 			 
-                          /* modification de Slatnia */
-			 System.out.println("/*verification*/tableau3["+i+"]="+vect3[i]);
+
+                     /****Modification de Sarah Mehenni dans travail de chahinez********/
+			 System.out.println("/*verifications*/Letableau3["+i+"]="+vect3[i]);
+
 
 			 i++;
 			 
